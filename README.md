@@ -1,1 +1,2 @@
-# Dynamic Online Examination System
+# OnlineQuizJGT
+Simple Online Quiz App using Php and mySql
